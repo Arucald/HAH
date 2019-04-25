@@ -1,3 +1,6 @@
 Hong Kong bootcamps: https://wiki.hyperledger.org/display/BOOTHK/Agenda
 tools: 代码整理工具linter、代码合并工具bundler和转移器transpiler如google的traceur、6to5等；
 代码压缩工具：minifier；
+
+
+OnDemandOsClientGrpc RPC failed: Connect Failed
